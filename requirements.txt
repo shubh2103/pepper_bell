@@ -1,4 +1,4 @@
-tensorflow
+tensorflow-cpu
 streamlit
 tensorflow_hub
 numpy
